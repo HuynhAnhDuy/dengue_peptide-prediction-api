@@ -185,7 +185,6 @@ pydantic==2.7.4
 pydantic_core==2.18.4
 pydot==3.0.2
 pyfasta==0.5.2
-pymol==3.0.0
 pynndescent==0.5.13
 PyQt5==5.15.9
 PyQt5-sip==12.12.2
