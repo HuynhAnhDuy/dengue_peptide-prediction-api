@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+
+# Ignore virtual environments
+venv/
+
+# Ignore Machine Learning model files
+*.h5
+
+# Ignore IDE settings (VS Code, PyCharm)
+.vscode/
+.idea/
